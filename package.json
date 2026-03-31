@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "link-preview-cards",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Obsidian plugin that turns pasted links into rich preview cards.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
