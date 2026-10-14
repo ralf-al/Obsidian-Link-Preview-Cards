@@ -49,6 +49,7 @@
 	background-size: 38px 38px;
 	background-position: center;
 	border-radius: 10px;
+	background-color: transparent;
 }
 
 .rlink-card__body {
